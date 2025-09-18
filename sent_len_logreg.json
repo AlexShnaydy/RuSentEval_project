@@ -1,0 +1,374 @@
+{
+    "model_name": "deepvk/RuModernBERT-base",
+    "probe_task": "sent_len",
+    "1": {
+        "va_score": 0.831,
+        "l2reg": 1e-05,
+        "tr_loss": 0.559,
+        "va_loss": 0.553,
+        "label_encoder": {
+            "5": 0,
+            "4": 1,
+            "3": 2,
+            "2": 3,
+            "1": 4,
+            "0": 5
+        },
+        "te_loss": 0.447,
+        "te_score": 0.82
+    },
+    "2": {
+        "va_score": 0.844,
+        "l2reg": 1e-05,
+        "tr_loss": 0.517,
+        "va_loss": 0.505,
+        "label_encoder": {
+            "5": 0,
+            "4": 1,
+            "3": 2,
+            "2": 3,
+            "1": 4,
+            "0": 5
+        },
+        "te_loss": 0.406,
+        "te_score": 0.831
+    },
+    "3": {
+        "va_score": 0.851,
+        "l2reg": 1e-05,
+        "tr_loss": 0.491,
+        "va_loss": 0.477,
+        "label_encoder": {
+            "5": 0,
+            "4": 1,
+            "3": 2,
+            "2": 3,
+            "1": 4,
+            "0": 5
+        },
+        "te_loss": 0.386,
+        "te_score": 0.84
+    },
+    "4": {
+        "va_score": 0.842,
+        "l2reg": 1e-05,
+        "tr_loss": 0.487,
+        "va_loss": 0.473,
+        "label_encoder": {
+            "5": 0,
+            "4": 1,
+            "3": 2,
+            "2": 3,
+            "1": 4,
+            "0": 5
+        },
+        "te_loss": 0.392,
+        "te_score": 0.835
+    },
+    "5": {
+        "va_score": 0.846,
+        "l2reg": 1e-05,
+        "tr_loss": 0.462,
+        "va_loss": 0.452,
+        "label_encoder": {
+            "5": 0,
+            "4": 1,
+            "3": 2,
+            "2": 3,
+            "1": 4,
+            "0": 5
+        },
+        "te_loss": 0.38,
+        "te_score": 0.841
+    },
+    "6": {
+        "va_score": 0.861,
+        "l2reg": 1e-05,
+        "tr_loss": 0.445,
+        "va_loss": 0.43,
+        "label_encoder": {
+            "5": 0,
+            "4": 1,
+            "3": 2,
+            "2": 3,
+            "1": 4,
+            "0": 5
+        },
+        "te_loss": 0.356,
+        "te_score": 0.854
+    },
+    "7": {
+        "va_score": 0.854,
+        "l2reg": 1e-05,
+        "tr_loss": 0.512,
+        "va_loss": 0.479,
+        "label_encoder": {
+            "5": 0,
+            "4": 1,
+            "3": 2,
+            "2": 3,
+            "1": 4,
+            "0": 5
+        },
+        "te_loss": 0.386,
+        "te_score": 0.844
+    },
+    "8": {
+        "va_score": 0.854,
+        "l2reg": 1e-05,
+        "tr_loss": 0.517,
+        "va_loss": 0.484,
+        "label_encoder": {
+            "5": 0,
+            "4": 1,
+            "3": 2,
+            "2": 3,
+            "1": 4,
+            "0": 5
+        },
+        "te_loss": 0.388,
+        "te_score": 0.844
+    },
+    "9": {
+        "va_score": 0.868,
+        "l2reg": 1e-05,
+        "tr_loss": 0.446,
+        "va_loss": 0.429,
+        "label_encoder": {
+            "5": 0,
+            "4": 1,
+            "3": 2,
+            "2": 3,
+            "1": 4,
+            "0": 5
+        },
+        "te_loss": 0.336,
+        "te_score": 0.863
+    },
+    "10": {
+        "va_score": 0.854,
+        "l2reg": 1e-05,
+        "tr_loss": 0.521,
+        "va_loss": 0.489,
+        "label_encoder": {
+            "5": 0,
+            "4": 1,
+            "3": 2,
+            "2": 3,
+            "1": 4,
+            "0": 5
+        },
+        "te_loss": 0.389,
+        "te_score": 0.837
+    },
+    "11": {
+        "va_score": 0.875,
+        "l2reg": 1e-05,
+        "tr_loss": 0.439,
+        "va_loss": 0.426,
+        "label_encoder": {
+            "5": 0,
+            "4": 1,
+            "3": 2,
+            "2": 3,
+            "1": 4,
+            "0": 5
+        },
+        "te_loss": 0.328,
+        "te_score": 0.868
+    },
+    "12": {
+        "va_score": 0.863,
+        "l2reg": 1e-05,
+        "tr_loss": 0.491,
+        "va_loss": 0.461,
+        "label_encoder": {
+            "5": 0,
+            "4": 1,
+            "3": 2,
+            "2": 3,
+            "1": 4,
+            "0": 5
+        },
+        "te_loss": 0.364,
+        "te_score": 0.849
+    },
+    "13": {
+        "va_score": 0.861,
+        "l2reg": 1e-05,
+        "tr_loss": 0.495,
+        "va_loss": 0.465,
+        "label_encoder": {
+            "5": 0,
+            "4": 1,
+            "3": 2,
+            "2": 3,
+            "1": 4,
+            "0": 5
+        },
+        "te_loss": 0.366,
+        "te_score": 0.851
+    },
+    "14": {
+        "va_score": 0.848,
+        "l2reg": 1e-05,
+        "tr_loss": 0.588,
+        "va_loss": 0.521,
+        "label_encoder": {
+            "5": 0,
+            "4": 1,
+            "3": 2,
+            "2": 3,
+            "1": 4,
+            "0": 5
+        },
+        "te_loss": 0.414,
+        "te_score": 0.83
+    },
+    "15": {
+        "va_score": 0.859,
+        "l2reg": 1e-05,
+        "tr_loss": 0.544,
+        "va_loss": 0.48,
+        "label_encoder": {
+            "5": 0,
+            "4": 1,
+            "3": 2,
+            "2": 3,
+            "1": 4,
+            "0": 5
+        },
+        "te_loss": 0.382,
+        "te_score": 0.845
+    },
+    "16": {
+        "va_score": 0.884,
+        "l2reg": 1e-05,
+        "tr_loss": 0.417,
+        "va_loss": 0.386,
+        "label_encoder": {
+            "5": 0,
+            "4": 1,
+            "3": 2,
+            "2": 3,
+            "1": 4,
+            "0": 5
+        },
+        "te_loss": 0.299,
+        "te_score": 0.873
+    },
+    "17": {
+        "va_score": 0.877,
+        "l2reg": 1e-05,
+        "tr_loss": 0.451,
+        "va_loss": 0.409,
+        "label_encoder": {
+            "5": 0,
+            "4": 1,
+            "3": 2,
+            "2": 3,
+            "1": 4,
+            "0": 5
+        },
+        "te_loss": 0.319,
+        "te_score": 0.87
+    },
+    "18": {
+        "va_score": 0.875,
+        "l2reg": 1e-05,
+        "tr_loss": 0.444,
+        "va_loss": 0.402,
+        "label_encoder": {
+            "5": 0,
+            "4": 1,
+            "3": 2,
+            "2": 3,
+            "1": 4,
+            "0": 5
+        },
+        "te_loss": 0.316,
+        "te_score": 0.87
+    },
+    "19": {
+        "va_score": 0.841,
+        "l2reg": 1e-05,
+        "tr_loss": 0.592,
+        "va_loss": 0.483,
+        "label_encoder": {
+            "5": 0,
+            "4": 1,
+            "3": 2,
+            "2": 3,
+            "1": 4,
+            "0": 5
+        },
+        "te_loss": 0.426,
+        "te_score": 0.81
+    },
+    "20": {
+        "va_score": 0.84,
+        "l2reg": 1e-05,
+        "tr_loss": 0.591,
+        "va_loss": 0.48,
+        "label_encoder": {
+            "5": 0,
+            "4": 1,
+            "3": 2,
+            "2": 3,
+            "1": 4,
+            "0": 5
+        },
+        "te_loss": 0.423,
+        "te_score": 0.809
+    },
+    "21": {
+        "va_score": 0.835,
+        "l2reg": 1e-05,
+        "tr_loss": 0.598,
+        "va_loss": 0.483,
+        "label_encoder": {
+            "5": 0,
+            "4": 1,
+            "3": 2,
+            "2": 3,
+            "1": 4,
+            "0": 5
+        },
+        "te_loss": 0.426,
+        "te_score": 0.813
+    },
+    "22": {
+        "va_score": 0.827,
+        "l2reg": 1e-05,
+        "tr_loss": 0.593,
+        "va_loss": 0.49,
+        "label_encoder": {
+            "5": 0,
+            "4": 1,
+            "3": 2,
+            "2": 3,
+            "1": 4,
+            "0": 5
+        },
+        "te_loss": 0.444,
+        "te_score": 0.795
+    },
+    "probing_arguments": {
+        "seed": 42,
+        "prepro_batch_size": 128,
+        "bucketing": true,
+        "model_is_random": false,
+        "train_batch_size": 256,
+        "eval_batch_size": 128,
+        "device": "cuda",
+        "input_dim": 768,
+        "num_hidden": 250,
+        "max_iter": 200,
+        "droupout_rate": 0.2,
+        "num_classes": 6,
+        "learning_rate": 0.01,
+        "clf": "logreg",
+        "num_kfold": 5,
+        "balanced": true
+    }
+}
