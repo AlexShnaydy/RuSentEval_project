@@ -14,3 +14,6 @@
 - SentLen
 - TreeDepth
 - ObjGender
+
+Полученные результаты
+![График с результатами](images/results.jpeg)
