@@ -10,4 +10,7 @@
 - https://huggingface.co/DeepPavlov/rubert-base-cased
 - https://huggingface.co/deepvk/RuModernBERT-base
 
-
+Пробинговые задачи, которые нам было интересно посомтреть: 
+- SentLen
+- TreeDepth
+- ObjGender
